@@ -9,12 +9,6 @@ Microsoft Store에서 Windows Terminal 설치
 <br/> > dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 <br/> 두 개의 명령어를 차례대로 실행
 
-<img src="https://d2uleea4buiacg.cloudfront.net/files/42a/42a631b8c4cd4df3b19d48622c10e2c46b8b67ccb44d40ea012ab05f345e0613.m.png
-" />
-
-![](https://d2uleea4buiacg.cloudfront.net/files/42a/42a631b8c4cd4df3b19d48622c10e2c46b8b67ccb44d40ea012ab05f345e0613.m.png)
-
-
 Ubuntu 설치 후 사용자이름 및 패스워드 지정
 <br/> > wsl -l 명령어 실행
 <br/> > wsl -l -v   //    버전확인
